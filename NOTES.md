@@ -15,3 +15,11 @@
 [read more here](https://nextjs.org/learn/dashboard-app/optimizing-fonts-images)
 
 # Creating Layouts and Pages
+
+# Fetching Data
+
+## choosing how to fetch data
+
+### API LAYER
+
+- APIs are an intermediary layer between your application code and database.
